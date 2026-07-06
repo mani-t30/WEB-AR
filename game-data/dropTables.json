@@ -1,0 +1,7 @@
+{
+  "default": {
+    "fragments": ["m", "y", "t", "sparkle"],
+    "eventMultiplier": 1,
+    "pityAfterScans": 8
+  }
+}

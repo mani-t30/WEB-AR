@@ -1,0 +1,9 @@
+{
+  "id": "qr001",
+  "title": "my.t Demo QR - Port Louis",
+  "location": {"lat": -20.1609, "lng": 57.5012},
+  "radiusMeters": 250,
+  "cooldownSeconds": 30,
+  "oneTime": false,
+  "expiresAt": "2027-12-31T23:59:59.000Z"
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "m",
+    "name": "my.t Letter M",
+    "rarity": "bronze",
+    "model": "assets/models/bronze/m.glb",
+    "animation": "assets/animations/collect.glb",
+    "collection": "myt-logo",
+    "level": 1,
+    "reward": "Logo progress",
+    "weight": 38
+  },
+  {
+    "id": "y",
+    "name": "my.t Letter Y",
+    "rarity": "silver",
+    "model": "assets/models/silver/y.glb",
+    "animation": "assets/animations/logo_spin.glb",
+    "collection": "myt-logo",
+    "level": 1,
+    "reward": "Logo progress",
+    "weight": 31
+  },
+  {
+    "id": "t",
+    "name": "my.t Letter T",
+    "rarity": "gold",
+    "model": "assets/models/gold/t.glb",
+    "animation": "assets/animations/chest_open.glb",
+    "collection": "myt-logo",
+    "level": 1,
+    "reward": "Logo progress",
+    "weight": 24
+  }
+]

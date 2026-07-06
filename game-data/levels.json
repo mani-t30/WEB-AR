@@ -1,0 +1,4 @@
+[
+  {"level": 1, "name": "Explorer", "requiredPoints": 0},
+  {"level": 2, "name": "Collector", "requiredPoints": 500}
+]

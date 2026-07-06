@@ -1,0 +1,7 @@
+{
+  "bronze": {"label": "Bronze", "color": "#b7794b"},
+  "silver": {"label": "Silver", "color": "#b8c1cc"},
+  "gold": {"label": "Gold", "color": "#f4bd3f"},
+  "platinum": {"label": "Platinum", "color": "#8fd8ff"},
+  "legendary": {"label": "Legendary", "color": "#7c5cff"}
+}
