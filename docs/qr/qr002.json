@@ -1,0 +1,9 @@
+{
+  "id": "qr002",
+  "title": "my.t Demo QR - Bagatelle",
+  "location": {"lat": -20.2253, "lng": 57.4964},
+  "radiusMeters": 350,
+  "cooldownSeconds": 30,
+  "oneTime": false,
+  "expiresAt": "2027-12-31T23:59:59.000Z"
+}

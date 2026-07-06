@@ -1,0 +1,8 @@
+{
+  "name": "my.t AR Game",
+  "short_name": "my.t AR",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#050505",
+  "theme_color": "#2344d9"
+}
